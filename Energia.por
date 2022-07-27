@@ -21,8 +21,8 @@ programa
 	
 	funcao real consumo(real leiturainicial, real leiturafinal, real valor){
 
-	real calculo = (leiturainicial - leiturafinal) * valor
-		retorne (valor)
+	real calculo = (leiturafinal - leiturainicial) * valor
+		retorne (calculo)
 		
 	}
 	
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 647; 
+ * @POSICAO-CURSOR = 614; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
