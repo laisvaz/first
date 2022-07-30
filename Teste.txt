@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Teste
 Primeira linha 
+=======
+Primeira linha
+Segunda linha
+>>>>>>> sistema
